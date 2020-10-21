@@ -1,2 +1,3 @@
-# LeveDesignExercise
-Game Development Class Level Design Exercise
+# Level Design Exercise
+
+In this level, I explore designing a puzzle platformer level. The key design goal of this level is to get the player to explore and eventually realize that they need to do in this game. There's no form of direct guidance, but there's some amount of indirect guidance through audio and object mechanics. For example, on pressing the pressure plate the player can hear the door opening later in the level, so this gives them a cue as to how the door can be opened. The fact that there's a pushable block implies that this can somehow be used with the pressure plate to keep the door from closing.
